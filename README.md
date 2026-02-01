@@ -72,6 +72,7 @@ switch (choice)
 1. Inline
     + $\sqrt2sin^2x + cosx $
 2. Block
+
 $$
 \vec{F}=\frac{d\vec{p}}{dt}
 $$
