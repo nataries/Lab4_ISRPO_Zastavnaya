@@ -74,10 +74,10 @@ git push
 - [ ] Запушить все на GitHub
 ---
 # Alert-блоки
-[!WARNING]
+> [!WARNING]
 > Важное предупреждение!
 
-[!TIP]
+> [!TIP]
 > Полезный совет!
 
 # Inline LaTeX
